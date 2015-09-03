@@ -17,6 +17,9 @@ body {
   width: 285px;
 }
 /* Basic styling */
+a {
+  color: white;
+}
 
 .jumbotron {
   background-image: url('https://penningtonplanetarium.files.wordpress.com/2014/06/ocean.jpg');
